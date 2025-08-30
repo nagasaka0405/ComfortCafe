@@ -372,3 +372,12 @@ aside p {
    border-bottom: 2px #e6e6e6 solid;
    padding-bottom: 10px;
 }
+
+.orderdrink-table {
+   width: 100%;
+}
+
+.orderdrink-table td {
+    padding: 10px;
+}
+
