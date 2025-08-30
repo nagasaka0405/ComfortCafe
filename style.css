@@ -74,6 +74,18 @@ a {
    background-color: #0090dd;
 }
 
+.btn2 {
+   font-size: 1.2rem;
+   background-color: #d200dd;
+   color: #fff;
+   border-radius: 30px;
+   padding: 20px 30px;
+}
+
+.btn2:hover {
+   background-color: #fff0f5;
+}
+
 #top {
    min-height: 100vh;
    background-image: url(./img/cafemain.jpg);
