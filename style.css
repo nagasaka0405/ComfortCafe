@@ -353,3 +353,13 @@ aside p {
       margin-left: 10%;
    }
 }
+
+.drinkorder {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 50px;
+}
+
+ .order-drink {
+      display: block;
+   }
