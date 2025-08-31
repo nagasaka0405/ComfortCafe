@@ -359,18 +359,18 @@ aside p {
    justify-content: space-between;
    margin-bottom: 50px;
 }
-
- .order-drink {
-      display: block;
-   }
-
    
  .order-drink img {
-      width: 40%;
+      width:40%;
       margin-bottom: 20px;
    }
 
-   .order-drinktable {
+.drinkorder {
+   width: 40%;
+   margin-right: 20%;
+}
+
+.orderdrink-table {
    font-size: 1.5rem;
    text-align: center;
    font-family: 'Georgia', serif;
@@ -386,4 +386,6 @@ aside p {
 .orderdrink-table td {
     padding: 10px;
 }
+
+
 
