@@ -212,7 +212,7 @@ aside p {
    margin-right: 20%;
 }
 
-.drink-title {
+.drink-table {
    font-size: 1.5rem;
    text-align: center;
    font-family: 'Georgia', serif;
@@ -354,7 +354,7 @@ aside p {
    }
 }
 
-.drinkorder {
+.order-drink {
    display: flex;
    justify-content: space-between;
    margin-bottom: 50px;
@@ -370,7 +370,7 @@ aside p {
       margin-bottom: 20px;
    }
 
-   .drinkorder {
+   .order-drinktable {
    font-size: 1.5rem;
    text-align: center;
    font-family: 'Georgia', serif;
