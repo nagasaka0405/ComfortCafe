@@ -387,5 +387,38 @@ aside p {
     padding: 10px;
 }
 
+.order-sweets {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 50px;
+}
+
+.order-sweets img {
+   width: 40%;
+   margin-right: 10%;
+}
+
+.ordersweets {
+   width:25%;
+   margin-left: 20%;
+}
+
+.sweetsorder-title {
+   font-size: 1.5rem;
+   text-align:center;
+   font-family: 'Georgia', serif;
+   color: #333;
+   border-bottom: 2px #e6e6e6 solid;
+   padding-bottom: 10px;
+}
+
+.ordersweets-table {
+   width: 100%;
+}
+
+.ordersweets-table td {
+   padding: 10px;
+}
+
 
 
