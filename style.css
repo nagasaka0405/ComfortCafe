@@ -271,18 +271,18 @@ aside p {
    text-align: center;
 }
 
-.menu-drink {
+.shop-info {
    display: flex;
    justify-content: space-between;
    margin-bottom: 50px;
 }
 
-.menu-drink img {
+.syop-info img {
    width: 40%;
    margin-left: 10%;
 }
 
-.drink {
+.each-shop {
    width: 25%;
    margin-right: 20%;
 }
